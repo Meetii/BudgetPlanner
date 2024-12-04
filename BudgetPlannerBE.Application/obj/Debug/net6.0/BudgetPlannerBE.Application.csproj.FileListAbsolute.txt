@@ -1,0 +1,17 @@
+C:\Users\meti-\Desktop\Budget Planner\BudgetPlannerBE.Application\bin\Debug\net6.0\BudgetPlannerBE.Application.deps.json
+C:\Users\meti-\Desktop\Budget Planner\BudgetPlannerBE.Application\bin\Debug\net6.0\BudgetPlannerBE.Application.dll
+C:\Users\meti-\Desktop\Budget Planner\BudgetPlannerBE.Application\bin\Debug\net6.0\BudgetPlannerBE.Application.pdb
+C:\Users\meti-\Desktop\Budget Planner\BudgetPlannerBE.Application\bin\Debug\net6.0\BudgetPlannerBE.Domain.dll
+C:\Users\meti-\Desktop\Budget Planner\BudgetPlannerBE.Application\bin\Debug\net6.0\BudgetPlannerBE.Infrastructure.dll
+C:\Users\meti-\Desktop\Budget Planner\BudgetPlannerBE.Application\bin\Debug\net6.0\BudgetPlannerBE.Domain.pdb
+C:\Users\meti-\Desktop\Budget Planner\BudgetPlannerBE.Application\bin\Debug\net6.0\BudgetPlannerBE.Infrastructure.pdb
+C:\Users\meti-\Desktop\Budget Planner\BudgetPlannerBE.Application\obj\Debug\net6.0\BudgetPlannerBE.Application.csproj.AssemblyReference.cache
+C:\Users\meti-\Desktop\Budget Planner\BudgetPlannerBE.Application\obj\Debug\net6.0\BudgetPlannerBE.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meti-\Desktop\Budget Planner\BudgetPlannerBE.Application\obj\Debug\net6.0\BudgetPlannerBE.Application.AssemblyInfoInputs.cache
+C:\Users\meti-\Desktop\Budget Planner\BudgetPlannerBE.Application\obj\Debug\net6.0\BudgetPlannerBE.Application.AssemblyInfo.cs
+C:\Users\meti-\Desktop\Budget Planner\BudgetPlannerBE.Application\obj\Debug\net6.0\BudgetPlannerBE.Application.csproj.CoreCompileInputs.cache
+C:\Users\meti-\Desktop\Budget Planner\BudgetPlannerBE.Application\obj\Debug\net6.0\BudgetPlannerBE.Application.csproj.CopyComplete
+C:\Users\meti-\Desktop\Budget Planner\BudgetPlannerBE.Application\obj\Debug\net6.0\BudgetPlannerBE.Application.dll
+C:\Users\meti-\Desktop\Budget Planner\BudgetPlannerBE.Application\obj\Debug\net6.0\refint\BudgetPlannerBE.Application.dll
+C:\Users\meti-\Desktop\Budget Planner\BudgetPlannerBE.Application\obj\Debug\net6.0\BudgetPlannerBE.Application.pdb
+C:\Users\meti-\Desktop\Budget Planner\BudgetPlannerBE.Application\obj\Debug\net6.0\ref\BudgetPlannerBE.Application.dll

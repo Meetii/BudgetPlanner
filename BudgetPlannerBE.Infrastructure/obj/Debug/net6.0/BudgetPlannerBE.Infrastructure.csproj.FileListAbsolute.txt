@@ -1,0 +1,17 @@
+C:\Users\meti-\Desktop\Budget Planner\BudgetPlannerBE.Infrastructure\bin\Debug\net6.0\BudgetPlannerBE.Infrastructure.deps.json
+C:\Users\meti-\Desktop\Budget Planner\BudgetPlannerBE.Infrastructure\bin\Debug\net6.0\BudgetPlannerBE.Infrastructure.runtimeconfig.json
+C:\Users\meti-\Desktop\Budget Planner\BudgetPlannerBE.Infrastructure\bin\Debug\net6.0\BudgetPlannerBE.Infrastructure.dll
+C:\Users\meti-\Desktop\Budget Planner\BudgetPlannerBE.Infrastructure\bin\Debug\net6.0\BudgetPlannerBE.Infrastructure.pdb
+C:\Users\meti-\Desktop\Budget Planner\BudgetPlannerBE.Infrastructure\bin\Debug\net6.0\BudgetPlannerBE.Domain.dll
+C:\Users\meti-\Desktop\Budget Planner\BudgetPlannerBE.Infrastructure\bin\Debug\net6.0\BudgetPlannerBE.Domain.pdb
+C:\Users\meti-\Desktop\Budget Planner\BudgetPlannerBE.Infrastructure\obj\Debug\net6.0\BudgetPlannerBE.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\meti-\Desktop\Budget Planner\BudgetPlannerBE.Infrastructure\obj\Debug\net6.0\BudgetPlannerBE.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meti-\Desktop\Budget Planner\BudgetPlannerBE.Infrastructure\obj\Debug\net6.0\BudgetPlannerBE.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\meti-\Desktop\Budget Planner\BudgetPlannerBE.Infrastructure\obj\Debug\net6.0\BudgetPlannerBE.Infrastructure.AssemblyInfo.cs
+C:\Users\meti-\Desktop\Budget Planner\BudgetPlannerBE.Infrastructure\obj\Debug\net6.0\BudgetPlannerBE.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\meti-\Desktop\Budget Planner\BudgetPlannerBE.Infrastructure\obj\Debug\net6.0\BudgetPlannerBE.Infrastructure.csproj.CopyComplete
+C:\Users\meti-\Desktop\Budget Planner\BudgetPlannerBE.Infrastructure\obj\Debug\net6.0\BudgetPlannerBE.Infrastructure.dll
+C:\Users\meti-\Desktop\Budget Planner\BudgetPlannerBE.Infrastructure\obj\Debug\net6.0\refint\BudgetPlannerBE.Infrastructure.dll
+C:\Users\meti-\Desktop\Budget Planner\BudgetPlannerBE.Infrastructure\obj\Debug\net6.0\BudgetPlannerBE.Infrastructure.pdb
+C:\Users\meti-\Desktop\Budget Planner\BudgetPlannerBE.Infrastructure\obj\Debug\net6.0\BudgetPlannerBE.Infrastructure.genruntimeconfig.cache
+C:\Users\meti-\Desktop\Budget Planner\BudgetPlannerBE.Infrastructure\obj\Debug\net6.0\ref\BudgetPlannerBE.Infrastructure.dll

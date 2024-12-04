@@ -1,0 +1,12 @@
+C:\Users\meti-\Desktop\Budget Planner\BudgetPlannerBE.Domain\bin\Debug\net6.0\BudgetPlannerBE.Domain.deps.json
+C:\Users\meti-\Desktop\Budget Planner\BudgetPlannerBE.Domain\bin\Debug\net6.0\BudgetPlannerBE.Domain.dll
+C:\Users\meti-\Desktop\Budget Planner\BudgetPlannerBE.Domain\bin\Debug\net6.0\BudgetPlannerBE.Domain.pdb
+C:\Users\meti-\Desktop\Budget Planner\BudgetPlannerBE.Domain\obj\Debug\net6.0\BudgetPlannerBE.Domain.csproj.AssemblyReference.cache
+C:\Users\meti-\Desktop\Budget Planner\BudgetPlannerBE.Domain\obj\Debug\net6.0\BudgetPlannerBE.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meti-\Desktop\Budget Planner\BudgetPlannerBE.Domain\obj\Debug\net6.0\BudgetPlannerBE.Domain.AssemblyInfoInputs.cache
+C:\Users\meti-\Desktop\Budget Planner\BudgetPlannerBE.Domain\obj\Debug\net6.0\BudgetPlannerBE.Domain.AssemblyInfo.cs
+C:\Users\meti-\Desktop\Budget Planner\BudgetPlannerBE.Domain\obj\Debug\net6.0\BudgetPlannerBE.Domain.csproj.CoreCompileInputs.cache
+C:\Users\meti-\Desktop\Budget Planner\BudgetPlannerBE.Domain\obj\Debug\net6.0\BudgetPlannerBE.Domain.dll
+C:\Users\meti-\Desktop\Budget Planner\BudgetPlannerBE.Domain\obj\Debug\net6.0\refint\BudgetPlannerBE.Domain.dll
+C:\Users\meti-\Desktop\Budget Planner\BudgetPlannerBE.Domain\obj\Debug\net6.0\BudgetPlannerBE.Domain.pdb
+C:\Users\meti-\Desktop\Budget Planner\BudgetPlannerBE.Domain\obj\Debug\net6.0\ref\BudgetPlannerBE.Domain.dll
